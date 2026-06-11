@@ -1,0 +1,35 @@
+ARIA JENKINS
+(555) 123-4567 | aria.jenkins@email.com | LinkedIn Profile URL | Portfolio Website URL
+
+PROFESSIONAL SUMMARY
+Highly creative and results-oriented UX/UI Designer with 5 years of experience transforming complex problems into intuitive, user-centric digital experiences. Proven ability to lead the end-to-end design process, from initial wireframing and user research through high-fidelity prototyping and iterative testing. Expert in modern design tools and committed to delivering aesthetically pleasing and highly functional interfaces that drive user engagement and business growth.
+
+SKILLS
+Design Tools: Figma (Expert), Sketch, Adobe XD, Miro, Jira
+UX/UI Disciplines: Wireframing, User Flow Mapping, Information Architecture (IA), Prototyping, Usability Testing, Design Systems Implementation, Interaction Design
+Methodologies: Agile Development, Design Thinking, Human-Centered Design
+
+EXPERIENCE
+
+SENIOR UX/UI DESIGNER | TechGlobal Solutions | Seattle, WA
+June 2021 – Present
+Led the complete redesign and feature development for a B2B SaaS platform used by over 50,000 enterprise clients. Collaborated closely with product managers and engineering teams throughout the Agile development lifecycle.
+
+*   Spearheaded user research initiatives, conducting over 30 usability tests and synthesizing data to identify key pain points, resulting in a 15% improvement in task completion rates for critical workflows.
+*   Designed and implemented comprehensive design systems within Figma, establishing component libraries that ensured visual consistency across three major product lines and reduced development time by an estimated 20%.
+*   Developed high-fidelity prototypes and interactive user flows using Figma, enabling stakeholders to visualize features before costly engineering implementation.
+*   Streamlined the onboarding process for new users by redesigning the initial dashboard experience, which contributed to a measurable decrease in customer support tickets related to setup.
+
+UX/UI DESIGNER | InnovateDigital Agency | Portland, OR
+August 2019 – May 2021
+Supported diverse clients across e-commerce, fintech, and healthcare sectors, contributing expertise in rapid prototyping and user journey mapping for various digital products.
+
+*   Designed responsive wireframes and mockups for a high-traffic e-commerce client, improving mobile conversion rates by optimizing checkout flow based on A/B testing results.
+*   Conducted competitive analysis and information architecture audits for three separate clients, defining optimal content structures that improved site navigation clarity.
+*   Utilized Sketch and Adobe XD to deliver pixel-perfect assets and design files, ensuring seamless handover to development teams.
+*   Participated in cross-functional workshops, translating abstract business requirements into tangible, actionable user stories and functional designs.
+
+EDUCATION
+
+B.A. INTERDISCIPLINARY DESIGN | University of Washington | Seattle, WA
+Graduated: May 2019

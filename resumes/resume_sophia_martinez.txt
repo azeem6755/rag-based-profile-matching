@@ -1,0 +1,32 @@
+Sophia Martinez
+(555) 123-4567 | sophia.martinez@email.com | LinkedIn Profile URL | GitHub Profile URL
+
+PROFESSIONAL SUMMARY
+Highly motivated and results-oriented Frontend Developer with 3 years of professional experience building user-centric, high-performance web applications. Proficient in modern JavaScript frameworks including React and Vue.js, coupled with advanced skills in TypeScript, CSS Grid, and responsive design principles. Proven ability to translate complex UI/UX designs into clean, scalable, and maintainable code. Seeking to leverage technical expertise to contribute to innovative development teams.
+
+SKILLS
+Languages: JavaScript (ES6+), TypeScript, HTML5, CSS3
+Frameworks & Libraries: React.js, Vue.js, Redux, Context API, Axios
+Styling & Design: Responsive Web Design, CSS Grid, Flexbox, Styled Components, SASS/LESS
+Tools & Version Control: Git, GitHub, npm, Webpack, Babel
+
+EXPERIENCE
+
+Frontend Developer | TechNova Solutions | Chicago, IL
+June 2022 – Present
+* Developed and maintained key components for a high-traffic e-commerce platform using React.js and TypeScript, resulting in a 15% improvement in load time optimization.
+* Implemented sophisticated responsive layouts utilizing CSS Grid and Flexbox, ensuring seamless display across various device types (mobile, tablet, desktop).
+* Integrated state management solutions (Redux Toolkit) to manage complex application states, enhancing data flow predictability and maintainability.
+* Collaborated with UX/UI designers to transform Figma prototypes into pixel-perfect, accessible components, adhering strictly to WCAG guidelines.
+
+Junior Web Developer | Digital Ascent Agency | Remote
+September 2021 – May 2022
+* Designed and developed several client websites using Vue.js, demonstrating expertise in component-based architecture for rapid prototyping and deployment.
+* Built reusable UI modules (e.g., carousels, navigation bars) and utilized TypeScript to enforce strong typing across the codebase, significantly reducing runtime errors.
+* Optimized CSS styling through SASS preprocessors and modern CSS techniques, improving overall visual consistency and development speed.
+* Participated in code reviews using Git/GitHub workflows, ensuring adherence to industry best practices and writing clean, efficient JavaScript code.
+
+EDUCATION
+
+Bachelor of Science in Computer Science | Northwestern University | Evanston, IL
+Graduated: May 2021

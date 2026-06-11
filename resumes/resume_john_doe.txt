@@ -1,0 +1,27 @@
+John Doe
+Software Engineer
+Email: john.doe@example.com
+Phone: (555) 019-2834
+Location: San Francisco, CA
+
+Professional Summary:
+Passionate Software Engineer with 4+ years of experience building scalable web applications. Strong expertise in backend services, RESTful APIs, and database optimization.
+
+Skills:
+- Languages: Python, JavaScript, SQL
+- Frameworks: FastAPI, Django, Flask
+- Tools: Git, Docker, PostgreSQL, Linux
+
+Experience:
+Senior Software Engineer | TechCorp (2024 - Present)
+- Designed and built high-performance microservices using Python and FastAPI.
+- Optimized database queries, reducing API response times by 35%.
+- Implemented CI/CD pipelines to automate testing and deployment.
+
+Software Engineer | DevGroup (2022 - 2024)
+- Developed and maintained RESTful APIs using Django.
+- Collaborated with front-end developers to integrate client-facing features.
+- Used Git for version control and participated in code reviews.
+
+Education:
+B.S. in Computer Science | University of California, Berkeley (2018 - 2022)

@@ -1,0 +1,33 @@
+MATEO ROSSI
+(555) 123-4567 | mateo.rossi@email.com | LinkedIn Profile URL | GitHub Profile URL
+
+PROFESSIONAL SUMMARY
+Highly motivated and results-driven Mobile App Developer with 5 years of professional experience specializing in building cross-platform and native mobile applications for both iOS and Android. Proficient in modern development frameworks including Swift, SwiftUI, Kotlin, and Flutter. Proven ability to integrate complex RESTful APIs and deliver high-quality, scalable user experiences while adhering to best industry practices using Git version control. Seeking to leverage technical expertise to contribute to innovative product development teams.
+
+SKILLS
+Programming Languages: Swift, Kotlin, Dart (Flutter), Python (Familiarity)
+Frameworks & Libraries: SwiftUI, Flutter, React Native (Basic), Android SDK, iOS SDK
+Development Tools: Git, GitHub/GitLab, Xcode, Android Studio, Postman
+Architectural Concepts: RESTful APIs, MVVM, Clean Architecture, State Management
+
+EXPERIENCE
+
+SENIOR MOBILE DEVELOPER | TechInnovate Solutions | Chicago, IL
+January 2021 – Present
+* Led the full-stack development and maintenance of a high-traffic consumer mobile application used by over 50,000 monthly users.
+* Developed new features and optimized existing modules using Swift and SwiftUI for iOS, significantly improving UI responsiveness and user engagement scores by 15%.
+* Engineered cross-platform functionality using Flutter (Dart), enabling the simultaneous deployment of core features on both iOS and Android from a single codebase, reducing development time by 20%.
+* Integrated various complex third-party RESTful APIs (e.g., payment gateways, geolocation services) ensuring seamless data flow and robust error handling.
+* Managed version control and collaborated closely with product managers and backend engineers using Git workflows (GitFlow).
+
+MOBILE DEVELOPER | DigitalStream Agency | Chicago, IL
+June 2019 – December 2020
+* Designed, developed, and launched three successful client-facing mobile prototypes for various industries (e.g., e-commerce, healthcare) using native Kotlin development for Android.
+* Developed reusable UI components and implemented robust state management patterns in Kotlin, ensuring code maintainability and scalability across the client's product suite.
+* Collaborated with UX/UI designers to translate wireframes into functional, pixel-perfect mobile applications, focusing on accessibility and optimal user flow.
+* Performed rigorous unit testing and debugging processes, resulting in a 99.5% uptime record for all deployed client applications during the contract period.
+
+EDUCATION
+
+B.S. COMPUTER SCIENCE | University of Illinois Chicago (UIC)
+Graduation Date: May 2019

@@ -1,0 +1,38 @@
+Olivia Smith
+(555) 123-4567 | olivia.smith@email.com | linkedin.com/in/oliviasmithpm
+
+PROFESSIONAL SUMMARY
+Highly accomplished and results-driven Product Manager with 8 years of experience leading the full product lifecycle from concept to launch in fast-paced, technical environments. Expert in developing robust product strategies, defining actionable roadmaps, and utilizing Agile methodologies (Scrum) to deliver market-leading software solutions. Proven ability to translate complex user needs into tangible features while driving cross-functional alignment between engineering, design, and business stakeholders.
+
+SKILLS
+Product Strategy & Vision | Product Roadmap Development | Agile Methodologies (Scrum/Kanban) | User Research (Interviews, Surveys, Usability Testing) | Jira & Confluence | Market Analysis | Stakeholder Management | Data Analytics (SQL, Google Analytics) | MVP Definition | Wireframing
+
+PROFESSIONAL EXPERIENCE
+
+SENIOR PRODUCT MANAGER
+InnovateTech Solutions | Seattle, WA
+June 2019 – Present
+
+*   Spearheaded the product strategy and roadmap for a flagship B2B SaaS platform used by Fortune 500 companies, resulting in a 25% increase in Annual Recurring Revenue (ARR) within two years.
+*   Managed the entire feature development lifecycle using Agile Scrum sprints, coordinating with cross-functional teams of 15+ engineers, designers, and QA specialists, ensuring timely delivery of high-quality increments.
+*   Conducted extensive user research, including over 50 customer interviews and usability tests, to identify critical pain points and define actionable requirements that informed the development of a new premium tier feature set.
+*   Owned the product backlog within Jira, prioritizing epics and user stories based on market demand, business impact analysis, and technical feasibility, maintaining a clear path toward Minimum Viable Product (MVP) goals.
+*   Collaborated with data science teams to implement usage tracking dashboards, providing key metrics that guided iterative improvements and optimized user flows for improved adoption rates.
+
+PRODUCT MANAGER
+Digital Ascent Corp. | Austin, TX
+August 2016 – May 2019
+
+*   Led the development of a consumer-facing mobile application designed to simplify personal financial management, growing the active user base by over 40% in three years.
+*   Defined and maintained product requirements documents (PRDs) and detailed user stories for multiple platform iterations, ensuring alignment between business objectives and technical execution.
+*   Utilized A/B testing frameworks and Google Analytics to analyze user behavior data, successfully optimizing the onboarding flow which reduced customer churn by 15%.
+*   Facilitated sprint planning, daily stand-ups, and retrospective meetings as a Scrum Master proxy, improving team efficiency and predictability in feature delivery.
+*   Managed stakeholder expectations across Sales, Marketing, and Executive Leadership, translating high-level business needs into granular, executable product tasks within Jira.
+
+EDUCATION
+
+MASTER OF BUSINESS ADMINISTRATION (MBA)
+University of Washington | Seattle, WA
+
+BACHELOR OF SCIENCE IN COMPUTER SCIENCE
+Georgia Institute of Technology | Atlanta, GA

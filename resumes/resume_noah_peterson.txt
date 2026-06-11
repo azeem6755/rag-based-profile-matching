@@ -1,0 +1,35 @@
+NOAH PETERSON
+(555) 123-4567 | noah.peterson@email.com | LinkedIn Profile URL | GitHub Profile URL
+
+PROFESSIONAL SUMMARY
+Highly motivated and detail-oriented QA Automation Engineer with 4 years of experience specializing in designing, developing, and implementing robust automated test suites. Proficient in leading end-to-end testing cycles using industry standards like Selenium, Cypress, and Python. Proven ability to integrate automation into CI/CD pipelines, significantly improving release quality and accelerating development cycles. Seeking to leverage technical expertise to contribute to a challenging software development team.
+
+SKILLS
+Programming Languages: Python, Java (Familiarity)
+Automation Frameworks: Selenium WebDriver, Cypress, Pytest, JUnit
+Testing Methodologies: End-to-End Testing, Smoke Testing, Regression Testing, API Testing (REST/SOAP)
+Tools & Platforms: TestRail, Jenkins, Git, Docker, Jira
+CI/CD: Jenkins Pipeline Scripting, GitHub Actions
+
+EXPERIENCE
+
+Senior QA Automation Engineer | TechSolutions Innovations | Seattle, WA
+Jan 2022 – Present
+* Led the development and maintenance of comprehensive automated test frameworks for critical customer-facing applications using Python, Pytest, and Selenium WebDriver.
+* Designed and implemented data-driven testing strategies, reducing manual regression cycle time by 35% and increasing test coverage across core modules.
+* Integrated automation scripts into Jenkins CI/CD pipelines, enabling continuous testing upon every code commit and providing real-time quality feedback to development teams.
+* Developed custom reporting dashboards using TestRail, tracking execution metrics, defect trends, and overall product stability for stakeholders.
+* Collaborated with cross-functional engineering teams (Developers and DevOps) to ensure testability was considered from the initial design phase (Shift Left approach).
+
+QA Automation Engineer | Global Dynamics Corp | Bellevue, WA
+Jun 2019 – Dec 2021
+* Developed automated UI and API test cases for high-traffic enterprise web applications using Cypress and Python.
+* Wrote robust, maintainable automation code following industry best practices (e.g., Page Object Model), resulting in a 20% reduction in script maintenance time.
+* Performed comprehensive functional and non-functional testing, including performance validation and security vulnerability checks, identifying key bugs prior to UAT.
+* Managed the defect lifecycle using Jira, ensuring timely reproduction steps and clear documentation for developers.
+* Assisted in containerizing test environments using Docker, streamlining setup and execution consistency across different development machines.
+
+EDUCATION
+
+Bachelor of Science (B.S.) in Computer Science | University of Washington | Seattle, WA
+Graduated: May 2019

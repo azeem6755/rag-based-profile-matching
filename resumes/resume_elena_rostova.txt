@@ -1,0 +1,43 @@
+Elena Rostova
+(555) 123-4567 | elena.rostova@email.com | LinkedIn Profile URL
+
+PROFESSIONAL SUMMARY
+Highly accomplished and results-driven Solutions Architect with over 10 years of experience designing, developing, and deploying robust, scalable enterprise cloud solutions. Expertise in AWS Cloud architecture, modern microservices design, and complex system integration using Java. Proven ability to translate intricate business requirements into resilient, high-performance technical blueprints that drive digital transformation and optimize operational efficiency for large organizations.
+
+SKILLS
+Cloud Platforms: Amazon Web Services (AWS), AWS Certified Solutions Architect Professional
+Architecture & Design: Microservices Architecture, Enterprise Architecture, System Design, API Gateway Design, Scalability Planning, High Availability Systems
+Programming Languages: Java (Spring Boot, Spring Cloud), Python, SQL
+Databases: PostgreSQL, DynamoDB, Redis (Caching)
+DevOps & Tools: Docker, Kubernetes, CI/CD Pipelines, Terraform, Git
+Operating Systems: Linux
+
+PROFESSIONAL EXPERIENCE
+
+SENIOR SOLUTIONS ARCHITECT | Global Tech Solutions Inc.
+June 2018 – Present
+Led the architectural design and implementation of a next-generation customer relationship management (CRM) platform built entirely on AWS cloud infrastructure. Managed end-to-end system lifecycle, from requirements gathering to production deployment.
+
+*   Architected and deployed over 30 independent microservices using Java Spring Boot, drastically improving service agility and enabling faster feature delivery cycles by 40%.
+*   Designed the core data ingestion pipeline utilizing AWS Lambda, Kinesis, and SQS, handling millions of transactions daily with near real-time processing capabilities.
+*   Implemented Infrastructure as Code (IaC) using Terraform for managing all AWS resources (VPC, EC2, RDS, Load Balancers), ensuring consistent and auditable deployment environments across multiple regions.
+*   Mentored junior architects and engineers on best practices for cloud native design patterns, security hardening, and performance tuning, resulting in a 25% reduction in operational overhead costs.
+
+SOFTWARE ARCHITECT | InnovateCorp Financial Services
+January 2014 – May 2018
+Responsible for modernizing core banking systems, transitioning monolithic applications into scalable microservices architectures to meet demanding regulatory requirements and high transaction volumes.
+
+*   Spearheaded the migration of critical legacy Java applications to a containerized environment using Docker and Kubernetes (EKS), significantly enhancing system resilience and scalability during peak usage periods.
+*   Designed and implemented RESTful APIs using Spring Cloud Gateway, providing unified access points for various client systems while maintaining strict security protocols (OAuth 2.0).
+*   Evaluated and recommended AWS services (DynamoDB for key-value storage, S3 for archival) that reduced database latency by an average of 30% compared to previous relational models.
+*   Collaborated with product management stakeholders to define technical roadmaps, successfully delivering three major platform upgrades ahead of schedule and under budget.
+
+EDUCATION & CERTIFICATIONS
+
+MASTER OF SCIENCE IN COMPUTER SCIENCE
+Massachusetts Institute of Technology (MIT)
+
+BACHELOR OF SCIENCE IN SOFTWARE ENGINEERING
+Georgia Institute of Technology (Georgia Tech)
+
+CERTIFICATION: AWS Certified Solutions Architect – Professional

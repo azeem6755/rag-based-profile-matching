@@ -1,0 +1,34 @@
+Amir Al-Hassan
+(123) 456-7890 | amiralhassan@email.com | LinkedIn Profile URL
+
+PROFESSIONAL SUMMARY
+Highly detail-oriented and technical writer with 3 years of professional experience specializing in creating clear, accurate, and comprehensive documentation for complex software systems. Proficient in API documentation, structured authoring tools (DITA), version control using Git, and modern markup languages like Markdown. Proven ability to translate intricate technical information into user-friendly guides and developer resources.
+
+SKILLS
+Technical Writing & Documentation: User Guides, API Reference Manuals, Developer Documentation, Knowledge Base Articles
+Structured Authoring Tools: DITA, RoboHelp
+Markup Languages & Version Control: Markdown, Git, XML
+Content Management Systems (CMS): Adobe Experience Manager (AEM) - *Implied/Realistic*
+Editing & Review: Copyediting, Proofreading, Subject Matter Expert (SME) Interviewing
+
+EXPERIENCE
+
+Technical Writer | Tech Solutions Inc.
+January 2022 – Present
+Spearheaded the development and maintenance of comprehensive API documentation for a flagship SaaS product, resulting in a measurable reduction in developer support inquiries.
+*   Authored and maintained over 50 unique API reference guides using Markdown and Swagger/OpenAPI specifications, ensuring developers had immediate access to endpoints and usage examples.
+*   Implemented version control workflows utilizing Git and GitHub, collaborating with engineering teams to manage documentation changes across multiple product releases.
+*   Conducted detailed Subject Matter Expert (SME) interviews with development leads to capture complex technical processes accurately for user manuals and tutorials.
+*   Utilized DITA principles in content structuring, improving the reusability of core topic elements within the knowledge base architecture.
+
+Junior Technical Writer | Global Software Corp.
+June 2021 – December 2021 (Contract/Internship)
+Assisted senior writers in producing end-user documentation for enterprise software solutions, focusing on clarity and adherence to corporate style guides.
+*   Developed initial drafts of installation guides and quick-start manuals, transforming raw technical specifications into approachable, step-by-step instructions.
+*   Managed content migration and formatting using RoboHelp, ensuring compatibility across various platforms (web and print).
+*   Performed rigorous copyediting and quality assurance checks on existing documentation sets, identifying and correcting inconsistencies in terminology and tone.
+
+EDUCATION
+
+Bachelor of Arts (B.A.) in English with a Minor in Technical Communications
+University Name | Graduated: May 2021

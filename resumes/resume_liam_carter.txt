@@ -1,0 +1,41 @@
+LIAM CARTER
+(555) 123-4567 | liam.carter@email.com | LinkedIn URL | GitHub URL
+
+PROFESSIONAL SUMMARY
+Highly skilled and results-driven DevOps Engineer with 6 years of experience specializing in building, automating, and maintaining robust cloud infrastructure. Proven expertise in container orchestration using Kubernetes and Docker, Infrastructure as Code (IaC) via Terraform, and comprehensive CI/CD pipeline management on AWS. Dedicated to improving system reliability, scalability, and deployment efficiency.
+
+TECHNICAL SKILLS
+Cloud Platforms: Amazon Web Services (AWS), Azure (Familiarity)
+Containerization & Orchestration: Kubernetes, Docker, Helm Charts
+Infrastructure as Code (IaC): Terraform, CloudFormation
+CI/CD Tools: Jenkins, GitLab CI, GitHub Actions
+Monitoring & Logging: Prometheus, Grafana, ELK Stack
+Programming & Scripting: Python, Bash, Go (Basic)
+Operating Systems: Linux (Ubuntu, CentOS), Unix
+
+PROFESSIONAL EXPERIENCE
+
+SENIOR DEVOPS ENGINEER | TechSolutions Corp. | Seattle, WA
+January 2021 – Present
+* Led the migration of monolithic applications to containerized microservices architecture using Docker and Kubernetes, resulting in a 40% reduction in deployment time and significant improvement in resource utilization.
+* Designed and implemented end-to-end CI/CD pipelines using Jenkins and AWS CodePipeline, integrating automated testing (unit/integration) and blue/green deployment strategies for zero downtime releases.
+* Managed and provisioned cloud infrastructure resources on AWS utilizing Terraform, ensuring immutable infrastructure principles were maintained across development, staging, and production environments.
+* Implemented comprehensive monitoring and alerting solutions using Prometheus and Grafana to track application performance metrics (latency, throughput), improving overall system observability by 25%.
+* Developed custom automation scripts in Python and Bash to streamline environment setup and disaster recovery procedures, reducing manual operational overhead.
+
+DEVOPS ENGINEER | InnovateTech Solutions | Portland, OR
+June 2018 – December 2020
+* Built and maintained core CI/CD pipelines for multiple client applications using GitLab CI, automating build, test, and deployment processes across various Linux environments.
+* Managed Kubernetes clusters on AWS EKS, defining necessary resources, services, and ingress controllers to ensure high availability and scalability for critical customer-facing APIs.
+* Utilized Terraform to manage VPC networking components (subnets, security groups, routing tables) within the AWS cloud environment, ensuring network segmentation and adherence to security best practices.
+* Collaborated closely with development teams (Dev) and operations teams (Ops) to foster a DevOps culture, facilitating smooth handoffs and implementing GitOps workflows.
+* Optimized resource deployment by containerizing legacy applications using Docker Compose, leading to faster onboarding times for new services.
+
+EDUCATION & CERTIFICATIONS
+
+BACHELOR OF SCIENCE IN COMPUTER ENGINEERING | University of Washington | Seattle, WA
+Graduated: May 2018
+
+CERTIFICATIONS
+AWS Certified DevOps Engineer – Professional (Year)
+Certified Kubernetes Administrator (CKA) (Year)

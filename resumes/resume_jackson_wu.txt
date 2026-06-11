@@ -1,0 +1,36 @@
+Jackson Wu
+(555) 123-4567 | jackson.wu@email.com | LinkedIn Profile URL
+
+Professional Summary
+Highly motivated and results-oriented Data Scientist with 4 years of experience in developing, implementing, and deploying machine learning models. Proficient in the full data science lifecycle, from complex data wrangling using Pandas and SQL to building advanced deep learning architectures with PyTorch and Scikit-Learn. Proven ability to translate raw data into actionable business insights that drive efficiency and revenue growth.
+
+Skills
+Programming Languages: Python, SQL (Advanced), R
+Machine Learning Frameworks: Scikit-Learn, TensorFlow, PyTorch
+Data Manipulation & Analysis: Pandas, NumPy, Jupyter Notebooks
+Database/Tools: PostgreSQL, MySQL, Git, ETL Processes
+Visualization: Matplotlib, Seaborn, Tableau
+
+Experience
+
+Senior Data Scientist | Tech Innovations Corp. | San Francisco, CA
+August 2022 – Present
+* Led the design and implementation of a predictive customer churn model using PyTorch and advanced feature engineering techniques, increasing early detection accuracy by 18%.
+* Optimized ETL pipelines involving complex SQL queries across PostgreSQL databases, reducing data processing time for key business metrics by an average of 3 hours per week.
+* Developed interactive dashboards in Jupyter Notebooks, utilizing Pandas and Matplotlib to visualize model performance and operational KPIs for executive stakeholders.
+* Collaborated with cross-functional engineering teams to deploy scalable ML models into production environments, ensuring robust API integration.
+
+Junior Data Scientist | Global Analytics Solutions | Seattle, WA
+June 2019 – August 2022
+* Built and evaluated various classification models (Random Forest, Gradient Boosting) using Scikit-Learn on large datasets (5M+ records), achieving a consistent AUC score improvement of 0.05 over baseline methods.
+* Performed extensive data cleaning, preprocessing, and exploratory data analysis (EDA) using Pandas and SQL, identifying key correlations that informed product strategy changes.
+* Conducted time series forecasting for inventory management using Python and specialized statistical packages, contributing to a documented 12% reduction in overstock costs.
+* Maintained version control of all codebases and models using Git, ensuring reproducibility and adherence to best development practices.
+
+Education
+
+Master of Science (M.S.) in Data Science | Stanford University | Palo Alto, CA
+Graduation Date: May 2019
+
+Bachelor of Science (B.S.) in Computer Science | University of Washington | Seattle, WA
+Graduation Date: May 2017

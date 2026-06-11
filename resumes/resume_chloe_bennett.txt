@@ -1,0 +1,41 @@
+CHLOE BENNETT
+(555) 123-4567 | chloe.bennett@email.com | LinkedIn Profile URL
+
+PROFESSIONAL SUMMARY
+Highly accomplished and results-oriented Cybersecurity Analyst with over 7 years of experience in threat detection, incident response, and vulnerability management. Proven expertise in utilizing SIEM platforms (Splunk/ELK), network analysis using Wireshark, and conducting comprehensive penetration tests. Possesses a strong foundation in Linux environments and adherence to industry best practices, backed by CISSP certification. Seeking to leverage advanced technical skills to strengthen organizational security posture.
+
+SKILLS
+Cybersecurity Frameworks: NIST CSF, ISO 27001
+Threat Detection & Analysis: SIEM (Splunk, LogRhythm), IDS/IPS, Endpoint Security
+Networking Tools: Wireshark, Nmap, tcpdump, Packet Analysis
+Penetration Testing: Vulnerability Assessment, Ethical Hacking, OWASP Top 10, Exploitation Frameworks
+Operating Systems: Linux (Ubuntu, Kali), Windows Server
+Compliance & Governance: CISSP, Risk Management, Policy Development
+Programming/Scripting: Python, Bash Scripting
+
+EXPERIENCE
+
+SENIOR CYBERSECURITY ANALYST | TechGuard Solutions | Boston, MA
+June 2019 – Present
+* Led the continuous monitoring and analysis of security events using Splunk SIEM, reducing mean time to detect (MTTD) critical threats by 35% through customized correlation rules and dashboards.
+* Performed in-depth packet captures and network forensics using Wireshark and tcpdump to investigate complex intrusions, identifying zero-day exploit attempts and lateral movement indicators.
+* Developed and executed penetration testing plans against internal and external networks, successfully identifying and remediating 45+ critical vulnerabilities related to misconfigurations and outdated protocols.
+* Managed the vulnerability lifecycle from scanning (Nessus) through remediation tracking, ensuring compliance with industry security benchmarks (CIS hardening standards).
+* Authored incident response playbooks for common threats (e.g., ransomware, DDoS), significantly improving team efficiency during high-severity incidents.
+
+CYBERSECURITY ANALYST | SecureNet Innovations | Boston, MA
+August 2016 – May 2019
+* Monitored security information and event management systems (SIEM) for suspicious activity across multiple departmental networks, handling an average of 500+ alerts daily.
+* Conducted routine vulnerability scanning and risk assessments on Linux servers and network infrastructure components, providing actionable reports to leadership.
+* Assisted the penetration testing team in scoping targets and analyzing attack vectors, focusing specifically on web application security (OWASP Top 10).
+* Maintained network logs and implemented firewall rulesets, ensuring adherence to least privilege access principles across all monitored systems.
+* Created Python scripts to automate repetitive log parsing tasks, saving the team approximately 10 hours of manual labor per week.
+
+EDUCATION & CERTIFICATIONS
+
+CERTIFICATIONS
+Certified Information Systems Security Professional (CISSP) - (ISC)²
+CompTIA Security+
+
+EDUCATION
+Bachelor of Science in Computer Science | University Name | Boston, MA
